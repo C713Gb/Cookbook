@@ -1,4 +1,4 @@
-package com.banerjee.mvvmcookbook.view.actvities
+package com.banerjee.mvvmcookbook.view.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
